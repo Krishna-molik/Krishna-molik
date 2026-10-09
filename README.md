@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there 👋, I'm Molik Singh Chouhan
 
-<!--
-**Krishna-molik/Krishna-molik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 👨‍🎓 Student | Passionate about **Web Development**
+- 🌱 Currently learning **Django REST Framework (DRF)**
+- 💡 Future Goal: Connect **AI/ML** with Web Development
+- ⚡ Fun fact: I love building things from scratch!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+**Frontend**  
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+**Backend**  
+`Python` `Django` `DRF` *(Learning)*
+
+**Languages**  
+`C` `C++` `Python`
+
+**Tools**  
+`Git` `GitHub`
+
+---
+
+### 📈 GitHub Stats
+
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishna-molik&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-molik&layout=compact&theme=radical)
+
+---
+
+### 🌱 Currently Working On
+- Strengthening my **Django + DRF** skills
+- Building real-world web projects
+- Exploring how **AI/ML** can be integrated with web apps
+
+---
+
+### 💬 Let's Connect
+I'm always open to learning and collaborating!
+
+---
+
+⭐️ From [Krishna-molik](https://github.com/Krishna-molik)
