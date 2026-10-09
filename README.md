@@ -23,6 +23,14 @@
 `Git` `GitHub`
 
 ---
+### 🚀 Featured Projects
+
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| **Django Coaching App** | A full-stack coaching management application built with Django | [Live Demo](https://django-coaching-app.onrender.com) |
+| **Timepass Tweet App** | A fun Twitter-like social media app for posting and interacting with tweets | [Live Demo](https://timepass-tweet-app.onrender.com) |
+
+---
 
 ### 📈 GitHub Stats
 
